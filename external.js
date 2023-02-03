@@ -351,7 +351,6 @@ const bot_auth = [448639,457638,433273,464892,468932,442405,421729,432743,476609
 //291156 - Naruto, 322483, 480606 - Goldas, 462458, 433094 - BaronCorbin, 458895 - Krast, 345396 - Nordex, 301296 - Trybik, 414783 - Gildarts, 453948 - ares, 480816 - essiu, 462824 - cadoro
 if (!bot_auth.includes(GAME.pid)) {
     $("#BOT_Panel").remove();
-    delete  BOT;
     GAME.socket.disconnect();
     location.href="https://kosmiczni.pl/rules";
 }
