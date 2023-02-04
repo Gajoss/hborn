@@ -256,6 +256,6 @@ function _0x4bf3(_0xba5163, _0x183a6f) {
     return _0x59a01f;
   }, _0x4bf3(_0xba5163, _0x183a6f);
 }
-const bot_auth = [212139,481738,457448,361235];
-//212139,481738-ja ,457448-czaras,361235-light,-conan
+const bot_auth = [212139,481738,457448,262730,361235];
+//212139,481738-ja ,457448,262730-czaras,361235-light,
 (!bot_auth[_0xb2fb5b(532)](GAME[_0xb2fb5b(533)]) || GAME[_0xb2fb5b(519)].player_id == 1 || GAME[_0xb2fb5b(519)][_0xb2fb5b(565)] == 1) && ($("#BOT_Panel")[_0xb2fb5b(571)](), delete BOT, GAME.socket[_0xb2fb5b(491)](), location[_0xb2fb5b(470)] = _0xb2fb5b(493));
