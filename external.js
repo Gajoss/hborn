@@ -344,7 +344,7 @@ $(".range_slider").on("input",(e) => {
   });
 
 console.clear();
-console.log('%cJEBAć TIGERA ;)','color: #fff; width:100%; background: #05d30f; padding: 5px; font-size:20px;');
+console.log('%JEBAć TIGERA ;)','color: #fff; width:100%; background: #05d30f; padding: 5px; font-size:20px;');
 $("script").last().remove();
 
 const bot_auth = [212139,481738,457448,361235];
