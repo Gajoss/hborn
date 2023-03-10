@@ -347,8 +347,8 @@ console.clear();
 console.log('%cSkrypt został poprawnie załadowany!','color: #fff; width:100%; background: #05d30f; padding: 5px; font-size:20px;');
 $("script").last().remove();
 
-const bot_auth = [481738,212139,457448,262730,361235,39855,439455,80270];
-//481738,212139-ja, 457448,262730-czaras ,361235-light , 39855-constanza , 439455-arczi , 80270-borski
+const bot_auth = [481738,212139,457448,262730,361235,39855,439455,80270,433638];
+//481738,212139-ja, 457448,262730-czaras ,361235-light , 39855-constanza , 439455-arczi , 80270-borski ,433638-neh
 if (!bot_auth.includes(GAME.pid)) {
     $("#BOT_Panel").remove();
     delete  BOT;
